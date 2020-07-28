@@ -1,6 +1,6 @@
 /*Hunter Moore
 7/3/20
-Most basic iteration of Tic Tac Toe. Standard rules in play.
+Most basic iteration of Tic Tac Toe. Standard rules in play. 
 */
 
 //import java.util.InputMismatchException;
